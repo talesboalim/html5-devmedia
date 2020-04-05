@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    font-size: 25px;
+}
+
+#titulo {
+    background-color: blue;
+}
+
+#titulo nav ul li {
+    display: inline;
+}
+
+#titulo nav ul li a {
+    color: white;
+    text-decoration: none;
+}
